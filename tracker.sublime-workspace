@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"all",
+				"ApplicationController"
+			],
+			[
+				"cl",
+				"click_link"
+			],
+			[
+				"ha",
+				"have_content"
+			],
+			[
+				"fo",
+				"followed_user_ids"
+			],
+			[
+				"follower",
+				"followed_users"
+			],
+			[
+				"make",
+				"make_microposts"
+			],
+			[
+				"ma",
+				"make_microposts"
+			],
+			[
+				"sor",
+				"source"
+			],
+			[
+				"reve",
+				"reverse_relationships"
+			],
+			[
+				"for",
+				"foreign_key"
+			],
+			[
+				"clas",
+				"class_name"
+			],
+			[
+				"foll",
+				"followed_id"
+			],
+			[
+				"sign",
+				"signin_path"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"be",
+				"be_admin"
+			],
+			[
+				"should",
+				"should_not"
+			],
+			[
+				"fa",
+				"FactoryGirl"
+			],
+			[
+				"click",
+				"click_button"
+			],
+			[
+				"hav",
+				"have_selector"
+			],
+			[
+				"gr",
+				"grayLighter"
+			],
+			[
+				"sh",
+				"should"
+			],
+			[
+				"cli",
+				"click_button"
+			],
+			[
+				"fi",
+				"fill_in"
+			],
+			[
+				"edit",
+				"edit_user_path"
+			],
+			[
+				"bef",
+				"before_filter"
+			],
+			[
+				"h",
+				"have_selector"
+			],
+			[
+				"dec",
+				"describe"
+			],
+			[
+				"new",
+				"new_email"
+			],
+			[
+				"do",
+				"dow	downto(0) { |n| .. }"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1174,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 360.0,
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 194.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/valerie/rails_projects/tracker/gemfile",
+		"/Users/valerie/rails_projects/ticketee/README.md",
+		"/Ticketeev21.sublime-project",
+		"/Users/valerie/javascripting/strings.js",
+		"/Users/valerie/rails_projects/tikitee/spec/features/creating_tickets_spec.rb",
+		"/Users/valerie/rails_projects/tikitee/spec/spec_helper.rb",
+		"/Users/valerie/rails_projects/tikitee/config/routes.rb",
+		"/Users/valerie/rails_projects/tikitee/Gemfile",
+		"/Users/valerie/rails_projects/tikitee/db/migrate/20150429011120_add_author_id_to_tickets.rb",
+		"/Users/valerie/rails_projects/tikitee/app/models/ticket.rb",
+		"/Users/valerie/rails_projects/tikitee/app/views/tickets/show.html.erb",
+		"/Users/valerie/rails_projects/tikitee/spec/features/viewing_tickets_spec.rb",
+		"/Users/valerie/rails_projects/tikitee/spec/features/editing_tickets_spec.rb",
+		"/Users/valerie/rails_projects/tikitee/app/controllers/application_controller.rb",
+		"/Users/valerie/rails_projects/tikitee/spec/features/deleting_tickets_spec.rb",
+		"/Users/valerie/rails_projects/tikitee/app/assets/stylesheets/application.css.scss",
+		"/Users/valerie/rails_projects/tikitee/app/controllers/tickets_controller.rb",
+		"/Users/valerie/rails_projects/tikitee/app/views/devise/registrations/edit.html.erb",
+		"/Users/valerie/rails_projects/tikitee/spec/features/signing_in_spec.rb",
+		"/Users/valerie/rails_projects/tikitee/app/views/devise/sessions/new.html.erb",
+		"/Users/valerie/rails_projects/tikitee/app/views/devise/registrations/new.html.erb",
+		"/Users/valerie/rails_projects/tikitee/app/views/layouts/application.html.erb",
+		"/Users/valerie/rails_projects/tikitee/spec/features/signing_out_spec.rb",
+		"/Users/valerie/rails_projects/tikitee/spec/rails_helper.rb",
+		"/Users/valerie/rails_projects/tikitee/spec/factories/user_factory.rb",
+		"/Users/valerie/rails_projects/tikitee/spec/features/signing_up_spec.rb",
+		"/Users/valerie/rails_projects/tikitee/spec/models/user_spec.rb",
+		"/Users/valerie/rails_projects/tikitee/app/views/projects/show.html.erb",
+		"/Users/valerie/rails_projects/tikitee/app/views/projects/edit.html.erb",
+		"/Users/valerie/rails_projects/tikitee/app/views/tickets/edit.html.erb",
+		"/Users/valerie/rails_projects/tikitee/app/views/tickets/new.html.erb",
+		"/Users/valerie/rails_projects/tikitee/app/views/projects/new.html.erb",
+		"/Users/valerie/rails_projects/tikitee/app/views/projects/index.html.erb",
+		"/Users/valerie/rails_projects/tikitee/spec/features/creating_projects_spec.rb",
+		"/Users/valerie/rails_projects/tikitee/spec/factories/ticket_factory.rb",
+		"/Users/valerie/rails_projects/tikitee/app/controllers/projects_controller.rb",
+		"/Users/valerie/rails_projects/tikitee/app/views/tickets/_form.html.erb",
+		"/Users/valerie/rails_projects/tikitee/app/models/project.rb",
+		"/Users/valerie/rails_projects/tikitee/config/initializers/simple_form_bootstrap.rb",
+		"/Users/valerie/rails_projects/tikitee/app/views/projects/_form.html.erb",
+		"/Users/valerie/rails_projects/tikitee/spec/features/viewing_projects_spec.rb",
+		"/Users/valerie/rails_projects/tikitee/spec/controllers/projects_controller_spec.rb",
+		"/Users/valerie/rails_projects/tikitee/config/environments/production.rb",
+		"/Users/valerie/rails_projects/tikitee/public/404.html",
+		"/Users/valerie/rails_projects/tikitee/spec/features/deleting_projects_spec.rb",
+		"/Users/valerie/rails_projects/tikitee/spec/features/editing_projects_spec.rb",
+		"/Users/valerie/rails_projects/tikitee/spec/features/editing-projects_spec.rb",
+		"/Users/valerie/rails_projects/tikitee/app/views/projects/index.html.erb.old.rhtml",
+		"/Users/valerie/rails_projects/tikitee/spec/factories/project_factory.rb",
+		"/Users/valerie/rails_projects/tikitee/config/database.yml",
+		"/Users/valerie/rails_projects/ticketee/.gitignore"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/valerie/rails_projects/tikitee",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"User Name",
+			"routes.draw",
+			"Log in",
+			"Sign in",
+			"render \"",
+			"render",
+			"render \"",
+			"Make it shiny",
+			"ticketee",
+			"post",
+			"projects",
+			"project",
+			"users_path",
+			"New App7",
+			"div.alert",
+			"navbar",
+			"SAMPLE APP",
+			"bcrypt",
+			"box"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Explore the cosmos",
+			"micropost",
+			"",
+			"micropost",
+			"microposts",
+			"micropost",
+			"Gizmo",
+			"--"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 1174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 143.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"abou",
+				"app/views/static_pages/about.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 104.0,
+	"status_bar_visible": true
+}
