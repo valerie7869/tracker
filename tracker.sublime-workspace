@@ -123,30 +123,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "config/environments/test.rb",
-			"settings":
-			{
-				"buffer_size": 1560,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/projects_controller.rb",
-			"settings":
-			{
-				"buffer_size": 396,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/projects/new.html.erb",
-			"settings":
-			{
-				"buffer_size": 235,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/Ruby/Ruby.sublime-build",
 	"command_palette":
@@ -176,12 +152,16 @@
 	},
 	"file_history":
 	[
+		"/Users/valerie/rails_projects/tracker/spec/models/project_spec.rb",
+		"/Users/valerie/rails_projects/tracker/app/views/layouts/application.html.erb",
+		"/Users/valerie/rails_projects/tracker/spec/features/creating_projects_spec.rb",
+		"/Users/valerie/rails_projects/tracker/app/controllers/projects_controller.rb",
+		"/Users/valerie/rails_projects/tracker/config/environments/test.rb",
+		"/Users/valerie/rails_projects/tracker/app/views/projects/new.html.erb",
+		"/Users/valerie/rails_projects/tracker/app/views/projects/show.html.erb",
 		"/Users/valerie/rails_projects/tracker/config.ru",
 		"/Users/valerie/rails_projects/tracker/app/views/projects/_form.html.erb",
-		"/Users/valerie/rails_projects/tracker/app/controllers/projects_controller.rb",
-		"/Users/valerie/rails_projects/tracker/app/views/projects/new.html.erb",
 		"/Users/valerie/rails_projects/tracker/config/routes.rb",
-		"/Users/valerie/rails_projects/tracker/spec/features/creating_projects_spec.rb",
 		"/Users/valerie/rails_projects/tracker/spec/features/viewing_tickets_spec.rb",
 		"/Users/valerie/rails_projects/tracker/Gemfile",
 		"/Users/valerie/rails_projects/tracker/config/database.yml",
@@ -243,9 +223,10 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			"/Users/valerie/rails_projects/tracker",
 			"/Users/valerie/rails_projects/tikitee",
 			""
 		]
@@ -255,6 +236,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Project has been created",
+			"created",
+			"Sublime",
 			"\"",
 			"User Name",
 			"routes.draw",
@@ -301,89 +285,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "config/environments/test.rb",
-					"settings":
-					{
-						"buffer_size": 1560,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								801,
-								801
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/controllers/projects_controller.rb",
-					"settings":
-					{
-						"buffer_size": 396,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								390,
-								390
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/views/projects/new.html.erb",
-					"settings":
-					{
-						"buffer_size": 235,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -455,6 +358,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 159.0,
+	"side_bar_width": 120.0,
 	"status_bar_visible": true
 }
